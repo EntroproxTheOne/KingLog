@@ -1,0 +1,13 @@
+Make a keylogger app for ethical hacking that has a GUI based app for the Security Engineer to test and see the "Victim's" keystrokes stored. 
+
+The app allows for :
+-Sector based Formatting of pen-drive/drives connected to host device (connected device is shown on the GUI app for the S.E (Security engineer))
+-The formatting allows for the drive to install the software that allows for keystrokes recording.
+-Smart segregation in the app that shows which current app the user is in and what is he/she typing.
+-2 way: allowing for the user to also use the victim's keyboard by acting as "HID" device.
+-Disguises as different devices every time with a different name from trusted brands.(ex, first time it is a Logitech g102 , second time it is a Realtek Keyboard).
+
+
+Oppurtunits:
+- Pendrive installs all required dependencies on the victim's comp.
+-
