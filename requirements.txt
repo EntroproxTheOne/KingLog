@@ -1,0 +1,18 @@
+# KingLog - Required Libraries
+# Install each library individually using the commands below
+# Or install all at once: pip install pynput pyautogui psutil pywin32 pillow
+
+pynput>=1.7.6                    # pip install pynput
+pyautogui>=0.9.53                # pip install pyautogui
+psutil>=5.9.0                    # pip install psutil
+pywin32>=305                     # pip install pywin32
+pillow>=9.0.0                    # pip install pillow
+
+# Alternative: Install all libraries at once
+# pip install pynput pyautogui psutil pywin32 pillow
+
+# For Python 3.11 specifically:
+# pip3.11 install pynput pyautogui psutil pywin32 pillow
+
+# Note: tkinter is usually included with Python installations
+# If missing, install with: sudo apt-get install python3-tk (Ubuntu/Debian)
